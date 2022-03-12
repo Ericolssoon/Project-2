@@ -1,10 +1,10 @@
 # Rock Paper Scissors
 
-The game Rock, Paper, Scissors has been popular for all ages for many years. It is an easy game to learn and brings joy to those who play. Although in reality it is completely random what the opponent chooses for "hand" during the game, you can sometimes calculate what the opponent will choose and play the winning hand yourself afterwards. If, on the other hand, you play this game online against the computer, it gives an extra moment of excitement as the result is completely impossible to predict.
+The game Rock, Paper, Scissors has been popular for all ages for many years. It is an easy game to learn and brings joy to those who play. Although in reality it is completely random what kind of "hand" the opponent chooses during the game, you can sometimes expect what the opponent will choose and play the winning hand yourself. If, on the other hand, you play this game online against the computer, it gives an extra moment of excitement as the result is completely impossible to predict.
 By playing Rock, Paper, Scissors online, the player gets good conditions to practice and have fun with endless rounds, in order to then be able to beat all their opponents in real life.
 
 
-![Different devices](assets/images/Responsive..png)
+![Different devices](assets/images/Responsive.png)
 
 
 ## Features 
@@ -30,6 +30,7 @@ By playing Rock, Paper, Scissors online, the player gets good conditions to prac
 ![Game result](assets/images/Result.png)
 
 - The Footer
+
    - The footer section shows the rules of Rock, Paper, Scissors.
    - The footer is valuable to the user because it clearly explains how the game is played.
 
@@ -39,6 +40,7 @@ By playing Rock, Paper, Scissors online, the player gets good conditions to prac
 - Highscores and to be able to create your own username.
 
 ## Testing
+- I tested that this page works in different browsers: Opera, Chrome, Microsoft Edge
 - I confirmed that the game results are always correct.
 - I confirmed that this project is responsive. looks good and functions on all standard screen sizes using the devtools device toolbar.
 
