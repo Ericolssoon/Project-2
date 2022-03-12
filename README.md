@@ -1,6 +1,7 @@
 # Rock Paper Scissors
 
-text om projektet
+The game Rock, Paper, Scissors has been popular for all ages for many years. It is an easy game to learn and brings joy to those who play. Although in reality it is completely random what the opponent chooses for "hand" during the game, you can sometimes calculate what the opponent will choose and play the winning hand yourself afterwards. If, on the other hand, you play this game online against the computer, it gives an extra moment of excitement as the result is completely impossible to predict.
+By playing Rock, Paper, Scissors online, the player gets good conditions to practice and have fun with endless rounds, in order to then be able to beat all their opponents in real life.
 
 
 ![Different devices](assets/images/Responsive..png)
