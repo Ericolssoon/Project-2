@@ -94,6 +94,12 @@ header h1{
     color: white;
 }
 
+#choice {
+	text-align: center;
+	padding: 30px;
+	color: white;
+}
+
 /* results */
 #challenge{
 	position: absolute;
