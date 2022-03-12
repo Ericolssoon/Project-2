@@ -14,6 +14,8 @@ By playing Rock, Paper, Scissors online, the player gets good conditions to prac
 - Header
    - This header clearly tells the user what game they are playing 
 
+   ![Header](assets/images/Header.png)
+
 -  The Game Options
    - This section provides interactive buttons that the user can click to make their choice and play the game.
    
