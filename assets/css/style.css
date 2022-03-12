@@ -340,4 +340,11 @@ header h1{
 		transform: translate(0, -50px)
 	}
 	
+	.buttons {
+		width: 280px;
+		position: absolute;
+		top: 24%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
 }
