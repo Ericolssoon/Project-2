@@ -33,7 +33,7 @@ function game(UserChoice){
 		ComChoice = choices[i];
 		box.style.display = "none";
 	}
-	setTimeout(continuGame, 1200);
+	setTimeout(continuGame, 3000);
 }
 function win(bn){
 	UserPoints++;
